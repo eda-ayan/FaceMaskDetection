@@ -13,3 +13,9 @@ With mask;
 Without mask;
 Mask worn incorrectly.
 
+FasterRCNN model with Adam optimizer is implemented in the notebook, as well as helper function for drawing boxes. 
+
+
+Result of the model:
+
+![image](https://user-images.githubusercontent.com/25666677/140797978-f594cefa-c446-4e65-9294-1f63980e089a.png)
